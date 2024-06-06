@@ -1,0 +1,67 @@
+- getting-started:
+  - index
+- truendo-integration:
+  - introduction
+  - all-websites
+  - wordpress
+  - wix
+  - shopify
+  - magento
+  - amp
+- google-tag-manager-and-truendo:
+  - index
+  - google-tag-manager
+  - google-tag-manager-with-consent-mode-v2-using-the-tag-template
+  - google-tag-manager-with-consent-mode-v2-old
+  - google-tags
+- cookie-blocking:
+  - index
+  - cookie-categories
+  - scripts
+  - iframes
+  - custom-placeholder
+- javascript-api:
+  - javascript-api
+  - cookie-callback-function
+- consent-management-platform:
+  - insights
+  - banner-customization
+  - custom-cookie-banner
+  - language-settings
+  - recategorizing-cookies
+  - domain-management
+  - adding-removing-services
+  - custom-services
+  - custom-vendors-and-datatypes
+  - iab-tcf
+  - manual-scans-recrawl
+  - the-cookie-domain
+  - geo-control
+  - custom-translations-text
+  - fonts:
+    - index
+  - consent-records
+  - multi-factor-authentication
+- organization-management:
+  - editing-company-details
+  - billing-details
+  - data-controller-and-data-protection-officer
+  - adding-a-user
+  - adding-removing-websites
+  - adding-more-organizations
+- website-level-management:
+  - index
+- subscription-management:
+  - index
+- privacy-policy-and-cookie-policy:
+  - index
+- wcag-accessibility:
+  - index
+- app-integration:
+  - sdk-and-demo-downloads
+- useful-terms:
+  - index
+- disclaimer:
+  - index
+- truendo-and-the-cdn:
+  - index
